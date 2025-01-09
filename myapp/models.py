@@ -14,3 +14,4 @@ class Task(models.Model):
  #ejecuto  python  manage.py migrate para que pueda caragar en la base de datos
  #python manage.py shell-para sacar la consola de py
  #from myapp.models import Project-ates de almacenar datos
+
